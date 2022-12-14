@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static1/static/css/main.d8d7a6ac.css",
+    "main.js": "/static1/static/js/main.d76f7d1a.js",
+    "static/js/787.ebdc3674.chunk.js": "/static1/static/js/787.ebdc3674.chunk.js",
+    "static/media/thhs.png": "/static1/static/media/thhs.878d9d26e23302684bc7.png",
+    "static/media/bg.jpg": "/static1/static/media/bg.864ff84a5050b7086d5f.jpg",
+    "static/media/tree.png": "/static1/static/media/tree.da23852c350af989f578.png",
+    "static/media/commerce.png": "/static1/static/media/commerce.e57058ec41f8127d492b.png",
+    "static/media/skill.png": "/static1/static/media/skill.82d9c50c8df372ae3ff0.png",
+    "static/media/reading.png": "/static1/static/media/reading.5a663c5b2324cf8ab817.png",
+    "static/media/gender.png": "/static1/static/media/gender.8e113bb8f123b32b7b69.png",
+    "static/media/instagram.png": "/static1/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/energy.png": "/static1/static/media/energy.25038f21f0fb29bb1367.png",
+    "static/media/employment.png": "/static1/static/media/employment.6850cf6e987bf70c08d7.png",
+    "static/media/right.png": "/static1/static/media/right.5e692dd01889d883b3d2.png",
+    "static/media/left.png": "/static1/static/media/left.f836223cc179ab0875f9.png",
+    "static/media/play.png": "/static1/static/media/play.bc091f1895d422ea4bcf.png",
+    "static/media/facebook.png": "/static1/static/media/facebook.795fce8e464693d7346d.png",
+    "static/media/linkedin.png": "/static1/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/bluesq.jpeg": "/static1/static/media/bluesq.837117aac6ee2953f302.jpeg",
+    "index.html": "/static1/index.html",
+    "main.d8d7a6ac.css.map": "/static1/static/css/main.d8d7a6ac.css.map",
+    "main.d76f7d1a.js.map": "/static1/static/js/main.d76f7d1a.js.map",
+    "787.ebdc3674.chunk.js.map": "/static1/static/js/787.ebdc3674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d7a6ac.css",
+    "static/js/main.d76f7d1a.js"
+  ]
+}
