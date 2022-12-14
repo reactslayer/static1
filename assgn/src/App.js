@@ -96,14 +96,22 @@ function Slider(props) {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          width: "300px",
+
           borderRadius: "20px",
           marginRight: "20px",
 
           height: "150px",
         }}
       >
-        <img src={play} style={{ width: "50px", height: "50px" }}></img>
+        <img
+          src={play}
+          style={{
+            width: "50px",
+            height: "50px",
+            marginLeft: "70px",
+            marginRight: "70px",
+          }}
+        ></img>
       </div>
       <div style={{}}>
         <div style={{ fontSize: "30px" }}>Episode {episode}</div>

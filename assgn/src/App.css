@@ -2,26 +2,24 @@
 html {
   height: 100%;
   width: 100%;
-  box-sizing: border-box;
+  position:fixed;
 }
 body{
   height: 100%;
-  box-sizing: border-box;
   width: 100%;
+  
   
 }
 #root{
   height: 100%;
   width: 100%;
-  box-sizing: border-box;
 }
 .App {
   display:flex;
   width: 100%;
- 
+  height: 100%;
   flex-direction: column;
-  box-sizing: border-box;
-  
+   
 }
 
 .list-images{
@@ -102,7 +100,7 @@ display: none;
 }
 .appbackground{
   background-image: url('./images/bg.jpg');
-  height: 80%;
+  height: 100%;
   background-repeat: no-repeat;
   padding-bottom:20px;
   width: 100%;
@@ -119,6 +117,7 @@ display: none;
   justify-content:center;
   width: 100%;
   flex-direction: row;
+   
   
 }
 .leftarrow{
@@ -163,12 +162,14 @@ display: none;
 .slide-container{
   display:flex;
   flex-direction: row;
-  width: fit-content;
+
+  /* width: fit-content; */
   color: #fff;
 }
 .mid-section{
    
    display:flex;
+  
 }
 .leftpane{
   background : black;
